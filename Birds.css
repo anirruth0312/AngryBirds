@@ -70,20 +70,16 @@ li a:hover{
     background-position: center;
     height:100vh;
 }
-.third-inside{
-   display: block;
-   justify-content: center;
-    padding-left: 550;
-    padding-top: 150px;
-    
-    
-}
-.third-inside img{
+
+.third img{
     height:600px;
     width:600px;
     float:center;
-    
-
+    display: block;
+    justify-content: center;
+    padding-left: 550;
+    padding-top: 150px;
+   
 }
 body{
     margin:0;
